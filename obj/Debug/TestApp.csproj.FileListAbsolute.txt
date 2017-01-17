@@ -1,0 +1,10 @@
+D:\Projects\typescript\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\Projects\typescript\TestApp\TestApp\obj\Debug\TestApp.dll
+D:\Projects\typescript\TestApp\TestApp\obj\Debug\TestApp.pdb
+D:\Projects\typescript\TestApp\TestApp\bin\TestApp.dll
+D:\Projects\typescript\TestApp\TestApp\bin\TestApp.pdb
+D:\SkyDrive\Projects\typescript\TestApp\TestApp\bin\TestApp.dll
+D:\SkyDrive\Projects\typescript\TestApp\TestApp\bin\TestApp.pdb
+D:\SkyDrive\Projects\typescript\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Projects\typescript\TestApp\TestApp\obj\Debug\TestApp.dll
+D:\SkyDrive\Projects\typescript\TestApp\TestApp\obj\Debug\TestApp.pdb

@@ -1,0 +1,135 @@
+﻿ body {
+    position: relative;
+}
+
+#newGame {
+    position: absolute;
+    left: 0; top: 0;
+}
+
+#textSpeed {
+    position: absolute;
+    left: 2em;
+    top: 12em;
+}
+
+#soundMode {
+    position: absolute;
+    left: 6em;
+    top: 13em;
+}
+
+#flavourSelect {
+    position: absolute;
+    left: 10em;
+    top: 10em;
+}
+
+#nameBox {
+    position: absolute;
+    left: 5.2em;
+    top: 3.2em;
+}
+
+#messageBox {
+    position: absolute;
+    top: 3.2em;
+    left: 13.5em;
+}
+
+#typeBox {
+    position: absolute;
+    top: 8.4em;
+    left: 1.1em;
+}
+
+.charSprite {
+    position: absolute;
+    width: 3.1em;
+    height: 4.7em;
+    top: 4.6em;
+    left: 3.2em;
+}
+
+#char1Box {
+    position: absolute;
+    top: 2.1em; left: 7.2em;
+}
+
+#char2Box {
+    position: absolute;
+    top: 6.2em; left: 7.2em;
+}
+
+#char3Box {
+    position: absolute;
+    top: 10.3em; left: 7.2em;
+}
+
+#char4Box {
+    position: absolute;
+    top: 14.4em; left: 7.2em;
+}
+
+#dogBox {
+    position: absolute;
+    top: 2.1em;
+    left: 20.9em;
+}
+
+#favFoodBox {
+    position: absolute;
+    left: 16em; top: 6.2em;
+}
+
+#coolestThingBox {
+    position: absolute;
+    left: 16em; top: 12.3em;
+}
+
+#ness {
+    position: absolute;
+    width: 3.1em;
+    height: 4.7em;
+    top: 5.2em;
+    left: 6.1em;
+}
+
+#paula {
+    position: absolute;
+    width: 3.1em;
+    height: 4.7em;
+    top: 11.4em;
+    left: 6.1em;
+}
+
+#jeff {
+    position: absolute;
+    width: 3.1em;
+    height: 4.7em;
+    top: 17.6em;
+    left: 6.1em;
+}
+
+#poo {
+    position: absolute;
+    width: 3.1em;
+    height: 4.7em;
+    top: 23.8em;
+    left: 6.1em;
+}
+
+#king {
+    position: absolute;
+    width: 3.1em;
+    height: 4.7em;
+    top: 5.2em;
+    left: 27em;
+    z-index: 6;
+}
+
+#endBox {
+    position: absolute;
+    top: 20em;
+    left: 2em;
+}
